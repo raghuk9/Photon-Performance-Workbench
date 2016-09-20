@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test Suite" verbose="1" thread-count="10" parallel="tests">
+    <test name="randomInput-01">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-02">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-03">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-04">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-05">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-06">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-07">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-08">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-09">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-010">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <!--<test name="randomInput-011">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-012">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-013">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-014">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-015">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-016">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-017">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-018">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-019">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-020">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-021">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-022">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-023">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-024">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-025">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-026">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-027">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-028">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-029">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-030">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-031">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-032">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-033">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-034">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-035">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-036">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-037">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-038">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-039">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-040">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-041">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-042">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-043">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-044">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-045">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-046">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-047">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-048">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-049">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-050">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-051">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-052">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-053">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-054">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-055">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-056">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-057">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-058">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-059">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-060">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-061">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-062">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-063">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-064">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-065">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-066">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-067">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-068">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-069">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-070">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-071">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-072">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-074">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-075">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-076">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-077">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-078">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-079">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-080">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-081">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-082">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-083">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-084">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-085">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-086">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-087">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-088">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-089">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-090">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-091">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-092">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-093">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-094">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-095">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-096">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-097">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-098">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-099">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="randomInput-100">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs.photon.in:7083/home"	/>
+        <classes>
+            <class name="com.sample.one.CredentialInputTest" >
+            </class>
+        </classes>
+    </test>-->
+</suite>

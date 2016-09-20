@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Parallel test Suite" verbose="1" thread-count="100" parallel="tests">
+    <test name="frx001">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx002">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx003">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx004">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx005">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx006">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx007">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx008">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx009">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx010">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx011">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx012">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx013">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx014">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx015">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx016">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx017">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx018">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx019">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx020">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx021 ">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"	/>
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx022">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx023">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx024">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx025">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx026">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx027">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx028">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx029">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx030">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx031">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx032">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx033">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx034">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx035">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx036">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx037">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx038">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx039">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx040">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx041">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx042">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx043">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx044">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx045">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx046">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx047">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx048">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx049">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx050">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx051">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx052">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx053">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx054">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx055">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx056">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx057">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx058">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx059">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx060">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx061">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx062">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+
+     <test name="frx063">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx064">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx065">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx066">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx067">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx068">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx069">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx070">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx071">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx072">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx073">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx074">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx075">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx076">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx077">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx078">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx079">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx080">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx081">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx082">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx083">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx084">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx085">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx086">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx087">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx088">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx089">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx090">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx091">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx092">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx093">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx094">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx095">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx096">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx097">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx098">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx099">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+     <test name="frx100">
+         <parameter name="platform" value="Linux" />
+         <parameter name="browser" value="Firefox" />
+         <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+         <classes>
+             <class name="com.sample.one.ParallelTest" >
+             </class>
+         </classes>
+     </test>
+    <!--<test name="frx101">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx102">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx103">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx104">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx105">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx106">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx107">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx108">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx109">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx110">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx111">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx112">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx113">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx114">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx115">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx116">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx117">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx118">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx119">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx120">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx121 ">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"  />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx122">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx123">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx124">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx125">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx126">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx127">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx128">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx129">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx130">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx131">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx132">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx133">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx134">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx135">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx136">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx137">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx138">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx139">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx140">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx141">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx142">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx143">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx144">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx145">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx146">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx147">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx148">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx149">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx150">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx151">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx152">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx153">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx154">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx155">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx156">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx157">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx158">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx159">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx160">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx161">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx162">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+
+    <test name="frx163">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx164">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx165">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx166">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx167">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx168">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx169">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx170">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx171">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx172">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx173">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx174">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx175">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx176">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx177">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx178">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx179">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx180">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx181">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx182">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx183">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx184">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx185">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx186">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx187">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx188">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx189">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx190">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx191">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx192">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx193">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx194">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx195">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx196">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx197">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx198">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx199">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>
+    <test name="frx200">
+        <parameter name="platform" value="Linux" />
+        <parameter name="browser" value="Firefox" />
+        <parameter name="url" value="https://labs:Welcome123@labs.photon.in:8096/home"   />
+        <classes>
+            <class name="com.sample.one.ParallelTest" >
+            </class>
+        </classes>
+    </test>-->
+</suite>
+
